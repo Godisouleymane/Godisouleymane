@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Godisouleymane also know as Nueve
-- 👀 I’m interested in web development
-- 🌱 I am a full-stack web developer
+- 👋 Hi, I’m Souleymane Sabiou also know as Nueve
+- 👀 I’m interested in web and mobile development
+- 🌱 I am a full-stack web and mobile developer
 - 💞️ I’m looking to collaborate on your projects
 <!---
 
@@ -14,4 +14,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 [![Committers.top badge](https://user-badge.committers.top/niger_private/Godisouleymane.svg)](https://user-badge.committers.top/niger_private/Godisouleymane)
-## 💰 You can help me by Donating
