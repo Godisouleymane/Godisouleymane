@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Souleymane Sabiou also know as Nueve
 - 👀 I’m interested in web and mobile development
-- 🌱 I am a full-stack web and mobile developer
-- 💞️ I’m looking to collaborate on your projects
+- 🤩 I’m looking to collaborate on your projects
 <!---
 
 --->
