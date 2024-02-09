@@ -18,7 +18,7 @@
 - 📫 How to reach me **ssabiougodi@gmail.com**
 
 - ⚡ Fun fact **😜😜😜**
-- [![Committers.top badge](https://user-badge.committers.top/niger_private/Godisouleymane.svg)](https://user-badge.committers.top/niger_private/Godisouleymane)
+- [![Committers.top badge](https://user-badge.committers.top/niger_public/Godisouleymane.svg)](https://user-badge.committers.top/niger_public/Godisouleymane)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
