@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Souleymane Sabiou</h1>
 <h3 align="center">A passionate developer from Niger 🇳🇪</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godisouleymane&label=Profile%20views&color=0e75b6&style=flat" alt="godisouleymane" /> </p>
 
@@ -40,3 +36,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godisouleymane&show_icons=true&locale=en" alt="godisouleymane" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godisouleymane&" alt="godisouleymane" /></p>
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
