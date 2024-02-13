@@ -31,9 +31,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Godisouleymane&show_icons=true&locale=en&layout=compact" alt="godisouleymane" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Godisouleymane&show_icons=true&locale=en" alt="godisouleymane" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Godisouleymane&show_icons=true&locale=en" alt="Godisouleymane" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Godisouleymane&" alt="godisouleymane" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Godisouleymane&" alt="Godisouleymane" /></p>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
