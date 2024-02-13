@@ -36,9 +36,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godisouleymane&show_icons=true&locale=en" alt="godisouleymane" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godisouleymane&" alt="godisouleymane" /></p>
-- [![Committers.top badge](https://user-badge.committers.top/niger_private/Godisouleymane.svg)](https://user-badge.committers.top/niger_private/Godisouleymane)
+
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
+- [![Committers.top badge](https://user-badge.committers.top/niger_private/Godisouleymane.svg)](https://user-badge.committers.top/niger_private/Godisouleymane)
