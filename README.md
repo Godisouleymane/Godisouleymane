@@ -2,8 +2,6 @@
 <h3 align="center">A passionate developer from Niger 🇳🇪</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
--[![committers.top badge](https://user-badge.committers.top/niger_private/Godisouleymane.svg)](https://user-badge.committers.top/niger_private/Godisouleymane)
-
 <p align="left"> <a href="https://twitter.com/Godi_souleymane" target="blank"><img src="https://img.shields.io/twitter/follow/godi_souleymane?logo=twitter&style=for-the-badge" alt="godi_souleymane" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter and Firebase**
@@ -40,4 +38,4 @@
        alt="snake" /></a>
 </div>
 
-- [![Committers.top badge](https://user-badge.committers.top/niger_private/Godisouleymane.svg)](https://user-badge.committers.top/niger_private/Godisouleymane)
+- [![Committers.top badge](https://user-badge.committers.top/niger_public/Godisouleymane.svg)](https://user-badge.committers.top/niger_private/Godisouleymane)
