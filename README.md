@@ -38,4 +38,4 @@
        alt="snake" /></a>
 </div>
 
-- [![Committers.top badge](https://user-badge.committers.top/niger_public/Godisouleymane.svg)](https://user-badge.committers.top/niger_private/Godisouleymane)
+- [![Committers.top badge](https://user-badge.committers.top/niger_public/Godisouleymane.svg)](https://user-badge.committers.top/niger_public/Godisouleymane)
