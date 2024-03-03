@@ -8,8 +8,6 @@
 
 - 👀 I’m looking to collaborate on **project**
 
-- 👨‍💻 All of my projects are available at [https://godisouleymane.netlify.app/](https://godisouleymane.netlify.app/)
-
 - 💬 Ask me about **JavaScript, Dart, Flutter**
 
 - 📫 How to reach me **ssabiougodi@gmail.com**
