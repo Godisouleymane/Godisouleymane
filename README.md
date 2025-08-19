@@ -4,12 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/Godi_souleymane" target="blank"><img src="https://img.shields.io/twitter/follow/godi_souleymane?logo=twitter&style=for-the-badge" alt="godi_souleymane" /></a> </p>
 
-- 🔭 I’m currently working on **Mobiles Apps**
-
-- 👀 I’m looking to collaborate on **project**
-
-- 💬 Ask me about **JavaScript, Dart, Flutter**
-
 - 📫 How to reach me **ssabiougodi@gmail.com**
 
 - ⚡ Fun fact **😜😜😜**
