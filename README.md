@@ -16,11 +16,8 @@
 
 I'm a passionate mobile developer who crafts innovative applications that solve real-world problems. My expertise focuses on Flutter for cross-platform development
 
-- **Currently working on**: High-performance Flutter applications
 - **Learning**: Advanced mobile architecture and emerging Flutter technologies
-- **Passion**: Transforming ideas into elegant and functional mobile apps
 - **Goal**: Contributing to Africa's tech ecosystem
-- **Fun fact**: I love optimizing mobile app performance!
 
 ---
 
