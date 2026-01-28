@@ -49,7 +49,7 @@ I'm a passionate mobile developer who crafts innovative applications that solve 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Godisouleymane&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600">
+  <img src="https://streak-stats.demolab.com?user=Godisouleymane&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600">
 </div>
 
 <div align="center">
