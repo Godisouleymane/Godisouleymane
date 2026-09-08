@@ -1,6 +1,6 @@
-# Hey there! I'm Souleymane Sabiou 👋
+# Hey there! I'm Souleymane Sabiou
 
-**Mobile Developer from Niger 🇳🇪**
+**Mobile Developer**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Mobile+Developer;Flutter+Enthusiast;Cross-Platform+Expert;Always+Learning+New+Things!" alt="Typing SVG" />
@@ -14,10 +14,16 @@
 
 ## About Me
 
-I'm a passionate mobile developer who crafts innovative applications that solve real-world problems. My expertise focuses on Flutter for cross-platform development
-
-- **Learning**: Advanced mobile architecture and emerging Flutter technologies
-- **Goal**: Contributing to Africa's tech ecosystem
+I enjoy turning ideas and requirements into practical,
+reliable mobile applications. Over the past 3+ years,
+I’
+ve worked on projects across fintech, beauty,
+education, and logistics, using Flutter to build and
+maintain cross-platform applications. My experience
+includes API integration, Firebase, state
+management, and clean architecture, with a strong
+focus on building applications that are simple and
+enjoyable to use.
 
 ---
 
